@@ -1,0 +1,9 @@
+Export-Package: com.hertz.aem.jstl.utils
+# Import-Package: *
+Private-Package: com.hertz.aem.jstl.utils
+# Include-Resource: 
+Bundle-Name: hertz-tlds
+Bundle-Description: hertz-tlds
+Bundle-SymbolicName: hertz-tlds
+Bundle-Version: 1.0.0-SNAPSHOT
+Bundle-Activator: com.hertz.aem.jstl.utils.Activator
